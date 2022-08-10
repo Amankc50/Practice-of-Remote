@@ -1,1 +1,9 @@
+# *.log/txt/etc... :-ignore all files that has same extension name  
+*.log
+
+# there is same name folder in same repository but in different folder
+# but i want ignore outer folder 
+# (use:- 
+# /dir/
+# folderName/:- ignore all folder that has same folderName then, forward slash
 dir/
