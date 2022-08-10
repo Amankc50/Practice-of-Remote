@@ -1,3 +1,4 @@
+# ignore all fles put in .gitignore
 # *.log/txt/etc... :-ignore all files that has same extension name  
 *.log
 
