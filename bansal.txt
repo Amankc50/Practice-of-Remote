@@ -1,0 +1,5 @@
+This is Bansal, from Bodhgaya
+1. use to add commit msg with committer:- git commit --amend 
+2. Open Vim Editor
+3. --> tap i(button) --> type message --> tap esc(button), --> type :wq --> Enter
+4. to check the status of modification git log -p -1 
